@@ -23,4 +23,4 @@ function reloadAd() {
 }
 
 // Optional: Reload the ad every 20 seconds (20000 milliseconds)
-// setInterval(reloadAd, 20000);
+setInterval(reloadAd, 20000);
